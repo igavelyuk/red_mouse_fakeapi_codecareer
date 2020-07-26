@@ -1,0 +1,16 @@
+{
+  "name": "red_mouse_fakeapi_codecareer",
+  "version": "1.0.0",
+  "description": "test-server",
+  "main": "index.js",
+  "repository": "https://github.com/igavelyuk/red_mouse_fakeapi_codecareer.git",
+  "author": "igavelyuk <gavelyukworking@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "json:server":"json-server --watch db.json"
+  }
+}

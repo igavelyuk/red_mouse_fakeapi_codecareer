@@ -1,0 +1,10 @@
+{
+  "userCredentials":
+      {
+        "displayname": "Display Name",
+        "username": "Username",
+        "email": "Email",
+        "phonenumber": "Phone Number",
+        "lang": 0
+      }
+}
